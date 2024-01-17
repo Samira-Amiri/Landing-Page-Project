@@ -203,6 +203,27 @@ footer p{
     color: #8b8e99; 
     text-align: center;
 }
+@media screen and (max-width:600px){
+    .box1,.box2,.box3,.box4{
+        width: 40%;
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    .main .pargh h1{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    main .pargh {
+        font-size: 20px;
+        width: 200px;
+        height: 200px;
+    }
+    .pargh span{
+        font-size: 15px;
+    }
+}
+
 
 
 
