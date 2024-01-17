@@ -194,6 +194,15 @@ main span{
     font-size: 15px;
     font-weight: 100;
 }
+footer {
+    background-color: #0b0b0b;
+    padding: 20px;   
+}
+
+footer p{
+    color: #8b8e99; 
+    text-align: center;
+}
 
 
 
